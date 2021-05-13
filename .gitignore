@@ -105,10 +105,14 @@ venv.bak/
 # mkdocs documentation
 /site
 
+#Pycharm project settings
+.idea
 # mypy
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+
 
 # Pyre type checker
 .pyre/
